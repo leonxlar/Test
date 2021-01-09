@@ -4,8 +4,8 @@
 newmtl blinn1SG
 Ka 0.10 0.10 0.10
  
-Kd 0.00 0.00 0.00
-Ks 0.00 0.00 0.00
+Kd 1.00 1.00 1.00
+Ks 1.00 1.00 1.00
 Ke 0.00 0.00 0.00
 Ns 0.060000
 Ni 1.500000
@@ -17,8 +17,7 @@ illum 2
 
 
 map_Kd windmill_diffuse.jpg
- 
-
+ norm windmill_normal.jpg
 map_Ks windmill_spec.jpg
 
 map_bump windmill_normal.jpg 
