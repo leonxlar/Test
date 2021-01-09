@@ -13,7 +13,13 @@ newmtl wire_000000000
 	map_Kd windmill_diffuse.jpg
  
 
+map_Kd windmill_diffuse.tga
+map_Kd windmill_diffuse.jpg
+ 
+map_Ks windmill_spec.tga
 map_Ks windmill_spec.jpg
  
+map_bump windmill_normal.tga 
+bump windmill_normal.tga 
 map_bump windmill_normal.jpg 
 bump windmill_normal.jpg
